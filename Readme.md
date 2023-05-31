@@ -16,9 +16,7 @@
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
-      - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -39,9 +37,6 @@
 
 **[First-Mini-Project]** is a simple website using html and css
 
-## 🛠 Built With <a name="built-with"></a>
-
-### Tech Stack <a name="tech-stack"></a>
 
 <!-- Features -->
 
@@ -54,9 +49,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -69,12 +61,15 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
+vscode
+git 
+github
 
 ### Setup
 
 Clone this repository to your desired folder:
 cd folder
-git clone <Project name>
+git clone <Project First-mini-Project>
 code . (To open in Vscode)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -119,9 +114,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+> Thanks for reviewing this project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

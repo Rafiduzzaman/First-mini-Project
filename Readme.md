@@ -1,14 +1,10 @@
 <a name="readme-top"></a>
 
 
-
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
-
   <h3><b>Microverse README Template</b></h3>
-
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -16,6 +12,8 @@
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
@@ -31,54 +29,69 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [First-Mini-Project] <a name="about-project"></a>
+# 📖 [My_first_mini_project] <a name="about-project"></a>
 
-> This is a simple project to validate linters along with basic html and css file.
+An abstract project with html and css
 
-**[First-Mini-Project]** is a simple website using html and css
+**[My_first_mini_project]** is a simple webpage
 
+## 🛠 Built With <a name="built-with">html and css</a>
+
+### Tech Stack <a name="tech-stack">N/A</a>
+
+Html and Css is used
+
+<details>
+html,css
+</details>
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
->Just a welcome message
+A simple webpage with a header tag.
 
-- **[Just_a_welcome_message]**
-
+- **[A_header_tag]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> use the linters
+A new developer can use the linters from this project
 
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 In order to run this project you need:
-vscode
-git 
-github
+
+VScode
 
 ### Setup
 
 Clone this repository to your desired folder:
-cd folder
-git clone <Project First-mini-Project>
-code . (To open in Vscode)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+  git clone git@github.com:Rdzaman20000/First-mini-Project.git
+
+### Install
+
+Install this project with:
+
+Live server extension in visual studio code
+
+### Usage
+
+To run the project, execute the following command:
+
+Right click the html file and select the option "Open with live server";
+
 
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
-> Just me for now
 
 👤 **Author1**
 
@@ -86,17 +99,17 @@ code . (To open in Vscode)
 - Twitter: [@99_spectre](https://twitter.com/99_spectre)
 - LinkedIn: [@md-rafiduzzaman-nahin](https://www.linkedin.com/in/md-rafiduzzaman-nahin-7431ab1b4/)
 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Will update soon
+I will add javascript for user interface and database connection
 
+- [ ] **[User_interface]**
 - [ ] **[Database_connection]**
-- [ ] **[Developed_UI]**
-- [ ] **[Mordern_UI/UX_design]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -114,7 +127,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Thanks for reviewing this project
+Let me know if u liked this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -122,9 +135,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Thanks to the people who made the materials.
-
-
+I would like to thank everyone for the guides and materials.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -134,6 +145,5 @@ Feel free to check the [issues page](../../issues/).
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./MIT.md) licensed.
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

@@ -60,17 +60,17 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [First-Mini-Project] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> This is a simple project to validate linters along with basic html and css file.
 
-**[your_project__name]** is a...
+**[First-Mini-Project]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+> N/A
 
 <details>
   <summary>Client</summary>
@@ -97,7 +97,7 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+>Just a welcome message
 
 - **[key_feature_1]**
 - **[key_feature_2]**
@@ -109,7 +109,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
+> Probably later
 
 - [Live Demo Link](https://google.com)
 
@@ -119,7 +119,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
+> use the linters
 
 To get a local copy up and running, follow these steps.
 
@@ -203,7 +203,7 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+> Just me for now
 
 👤 **Author1**
 
@@ -223,7 +223,7 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
+> Will update soon
 
 - [ ] **[new_feature_1]**
 - [ ] **[new_feature_2]**
@@ -255,9 +255,9 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
+> Thanks to the people who made the materials/
 
-I would like to thank...
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -265,7 +265,7 @@ I would like to thank...
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
+> Can we make things simpler
 
 - **[Question_1]**
 
